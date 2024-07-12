@@ -1,0 +1,3 @@
+npm install --save-dev @types/node typescript ts-node nodemon
+npm install express typeorm reflect-metadata pg
+npm install --save-dev @types/express
